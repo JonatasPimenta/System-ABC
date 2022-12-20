@@ -3,7 +3,7 @@ Demonstração do programa de controle de vendas
 
 Coloque os dois arquivos na mesma pasta no computador.
 
-A Microsoft alterou o comportamento padrão dos aplicativos do Office para bloquear macros em arquivos baixados da Internet. 
+A Microsoft alterou o comportamento padrão dos aplicativos do Office para bloquear macros em arquivos baixados da Internet.
 
 Clique com o botão direito sobre o arquivo
 
@@ -14,5 +14,7 @@ Na guia Geral, em Segurança, que está no final da tela marque a opção Desblo
 Clique em Aplicar e OK.
 
 Ao abrir o arquivo aplicativoCDV habilite as macros para usar o programa.
+
+Para inserir novos registros não é necessário digitar o ID. O programa gera automaticamente.
 
 Dê um clique duplo sobre o valor pago e assim abrirá a tela para registrar pagamentos.
