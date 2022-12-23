@@ -1,6 +1,12 @@
 # jpimenta_CDV
 Demonstração do programa de controle de vendas
 
+login da demonstação:
+
+Login: jpimenta
+
+Senha: 1234
+
 Coloque os dois arquivos na mesma pasta no computador.
 
 A Microsoft alterou o comportamento padrão dos aplicativos do Office para bloquear macros em arquivos baixados da Internet.
@@ -14,6 +20,12 @@ Na guia Geral, em Segurança, que está no final da tela marque a opção Desblo
 Clique em Aplicar e OK.
 
 Ao abrir o arquivo aplicativoCDV habilite as macros para usar o programa.
+
+use os dados de login:
+
+Login: jpimenta
+
+Senha: 1234
 
 Para inserir novos registros não é necessário digitar o ID. O programa gera automaticamente.
 
