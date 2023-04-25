@@ -5,7 +5,7 @@ Coloque os arquivos na mesma pasta no computador.
 
 Instale os quatro drivers pela ordem.
 
-Eles são fornecidos pela Microsoft e pela Oracle e são necessários para o funcionaento do Sistema ABC.
+Eles são fornecidos pela Microsoft e pela Oracle e são necessários para o funcionaento do System ABC.
 
 A Microsoft alterou o comportamento padrão dos aplicativos do Office para bloquear macros em arquivos baixados da Internet.
 
