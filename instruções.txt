@@ -22,3 +22,5 @@ Ao abrir o arquivo aplicativoCDV habilite as macros para usar o programa.
 Para inserir novas vendas realizadas ou serviços prestados ou novas compras não é necessário digitar o ID. O programa gera automaticamente.
 
 Dê um clique sobre o campo valor pago e assim abrirá a tela para registrar pagamentos.
+
+Você pode substituir os arquivos logo.jpg e banner.jpg por arquivos do mesmo tipo e tamanho para exibir no programa as imagens da sua empresa.
