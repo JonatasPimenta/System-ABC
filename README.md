@@ -1,17 +1,15 @@
-# jpimenta_CDV
-Demonstração do programa de controle de vendas
+# Sistema ABC
+Demonstração do programa de controle de vendas, pratação de serviços, compras e estoque
 
-login da demonstação:
+Coloque os arquivos na mesma pasta no computador.
 
-Login: jpimenta
+Instale os quatro drivers pela ordem.
 
-Senha: 1234
-
-Coloque os dois arquivos na mesma pasta no computador.
+Eles são fornecidos pela Microsoft e pela Oracle e são necessários para o funcionaento do Sistema ABC.
 
 A Microsoft alterou o comportamento padrão dos aplicativos do Office para bloquear macros em arquivos baixados da Internet.
 
-Clique com o botão direito sobre o arquivo
+Clique com o botão direito sobre o arquivo chamado App
 
 Selecione a opção Propriedades
 
@@ -21,12 +19,6 @@ Clique em Aplicar e OK.
 
 Ao abrir o arquivo aplicativoCDV habilite as macros para usar o programa.
 
-use os dados de login:
+Para inserir novas vendas realizadas ou serviços prestados ou novas compras não é necessário digitar o ID. O programa gera automaticamente.
 
-Login: jpimenta
-
-Senha: 1234
-
-Para inserir novos registros não é necessário digitar o ID. O programa gera automaticamente.
-
-Dê um clique duplo sobre o valor pago e assim abrirá a tela para registrar pagamentos.
+Dê um clique sobre o campo valor pago e assim abrirá a tela para registrar pagamentos.
