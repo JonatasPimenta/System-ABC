@@ -1,5 +1,5 @@
 # System ABC
-Demonstração do programa de controle de vendas, pratação de serviços, compras e estoque
+Programa de controle de vendas, pratação de serviços, compras e estoque
 
 Coloque os arquivos na mesma pasta no computador.
 
