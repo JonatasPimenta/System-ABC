@@ -9,7 +9,7 @@ Eles são fornecidos pela Microsoft e pela Oracle e são necessários para o fun
 
 A Microsoft alterou o comportamento padrão dos aplicativos do Office para bloquear macros em arquivos baixados da Internet.
 
-Clique com o botão direito sobre o arquivo chamado App
+Clique com o botão direito sobre o arquivo chamado System ABC
 
 Selecione a opção Propriedades
 
@@ -17,7 +17,7 @@ Na guia Geral, em Segurança, que está no final da tela marque a opção Desblo
 
 Clique em Aplicar e OK.
 
-Ao abrir o arquivo aplicativoCDV habilite as macros para usar o programa.
+Ao abrir o arquivo System ABC habilite as macros para usar o programa.
 
 Para inserir novas vendas realizadas ou serviços prestados ou novas compras não é necessário digitar o ID. O programa gera automaticamente.
 
