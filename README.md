@@ -1,11 +1,11 @@
 # System ABC
-Programa de controle de vendas, pratação de serviços, compras e estoque
+Programa de controle de vendas, prestação de serviços, compras e estoque
 
-Coloque os arquivos na mesma pasta no computador.
+Baixe todos os arquivos e coloque-os na mesma pasta no computador.
 
 Instale os quatro drivers pela ordem.
 
-Eles são fornecidos pela Microsoft e pela Oracle e são necessários para o funcionaento do System ABC.
+Eles são fornecidos pela Microsoft e pela Oracle e são necessários para o funcionamento do Sistema ABC.
 
 A Microsoft alterou o comportamento padrão dos aplicativos do Office para bloquear macros em arquivos baixados da Internet.
 
